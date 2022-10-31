@@ -1,0 +1,13 @@
+.h1 {
+    text-transform: uppercase;
+    color: brown;
+    text-align: center;
+}
+.parraph{
+    color: darkgray;
+}
+.button {
+    background-color: brown;
+    padding: 10px;
+    font-size: 18px;
+}
